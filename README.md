@@ -18,7 +18,7 @@ Manuscript describing the dataset: [Functional connectomics spanning multiple ar
 
 ## Dataset introduction
 
-#### Neuroglancer: data visualization and exploration
+### Neuroglancer: data visualization and exploration
 
 Workshop introduction example: https://spelunker.cave-explorer.org/#!gs://microns-static-links/mm3/layer5_thick_tufted.json
 
@@ -26,7 +26,7 @@ Neuroglancer navigation instructions at [MICrONS Explorer Tools](https://www.mic
 
 More curated neuroglancer examples available at [the MICrONS Explorer Gallery](https://www.microns-explorer.org/gallery-mm3)
 
-#### DashApps: interactive online analysis
+### DashApps: interactive online analysis
 
 Browse the data tables, such as cell type classifications with the [Table Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/table_viewer/?datastack=%22minnie65_public%22). Documentation and use examples are here [Table Viewer Overivew](https://tutorial.microns-explorer.org/dash-table-viewer.html)
 
@@ -46,7 +46,7 @@ Aleternately, you can run each notebook in __Google Colab__ by accessing the git
 (requires GMail or other Google-related account). Google Colab lets you run executable notebooks in the cloud with minimal setup.
 
 
-#### Further reading relevant to the demonstration
+## Further reading relevant to the demonstration
 
 Cell Type Model: [Perisomatic ultrastructure efficiently classifies cells in mouse cortex. Elabaddy et al.]([https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2](https://www.nature.com/articles/s41586-024-07765-7))
 
