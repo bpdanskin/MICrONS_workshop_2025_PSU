@@ -20,7 +20,7 @@ Manuscript describing the dataset: [Functional connectomics spanning multiple ar
 
 ### Neuroglancer: data visualization and exploration
 
-Workshop introduction example: https://spelunker.cave-explorer.org/#!gs://microns-static-links/mm3/layer5_thick_tufted.json
+Workshop Guided Introduction: https://docs.google.com/document/d/1oRpNQazz8SQAIb472fEsCHyMG2HqbPTwQAZxqEmG5GU 
 
 Neuroglancer navigation instructions at [MICrONS Explorer Tools](https://www.microns-explorer.org/ngl-instructions)
 
