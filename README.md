@@ -14,6 +14,8 @@ In this tutorial, we introduce the dataset, as well as both interactive and prog
 
 The tutorial will contain examples of how to access: annotations, connectivity, segmentation, meshes, and neuron-skeletons.
 
+[Presentation Slides](https://drive.google.com/file/d/1MIc-a0DrJKtL9YUJxPamcPxI_uRXcWwe)
+
 Manuscript describing the dataset: [Functional connectomics spanning multiple areas of mouse visual cortex](https://www.nature.com/articles/s41586-025-08790-w)
 
 ## Dataset introduction
@@ -28,9 +30,9 @@ More curated neuroglancer examples available at [the MICrONS Explorer Gallery](h
 
 ### DashApps: interactive online analysis
 
-Browse the data tables, such as cell type classifications with the [Table Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/table_viewer/?datastack=%22minnie65_public%22). Documentation and use examples are here [Table Viewer Overivew](https://tutorial.microns-explorer.org/dash-table-viewer.html)
+Browse the data tables, such as cell type classifications with the [Table Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/table_viewer/?datastack=%22minnie65_public%22). Documentation and use examples are here [Table Viewer Overview](https://tutorial.microns-explorer.org/dash-table-viewer.html)
 
-Query and visualize synaptic connectivity of neurons with the [Connectivity Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/connectivity/?anno-id=%22%22&id-type=%22root_id%22&mat-version=1507&cell-type-table-dropdown=%22%22&datastack=%22minnie65_public%22). Documentation and use examples are here [Connectivity Viewer Overivew](https://tutorial.microns-explorer.org/dash-connectivity.html)
+Query and visualize synaptic connectivity of neurons with the [Connectivity Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/connectivity/?anno-id=%22%22&id-type=%22root_id%22&mat-version=1507&cell-type-table-dropdown=%22%22&datastack=%22minnie65_public%22). Documentation and use examples are here [Connectivity Viewer Overview](https://tutorial.microns-explorer.org/dash-connectivity.html)
 
 
 
@@ -48,7 +50,7 @@ Aleternately, you can run each notebook in __Google Colab__ by accessing the git
 
 ## Further reading relevant to the demonstration
 
-Cell Type Model: [Perisomatic ultrastructure efficiently classifies cells in mouse cortex. Elabaddy et al.]([https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2](https://www.nature.com/articles/s41586-024-07765-7))
+Cell Type Model: [Perisomatic ultrastructure efficiently classifies cells in mouse cortex. Elabaddy et al.](https://www.nature.com/articles/s41586-024-07765-7)
 
 Layer 5 ET Cell Type Paper: [The synaptic architecture of layer 5 thick tufted excitatory neurons in mouse visual cortex. Bodor et al.](https://www.nature.com/articles/s41586-024-07765-7)
 
